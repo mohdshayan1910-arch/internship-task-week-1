@@ -24,6 +24,8 @@ Formula used "=B1/B3"
 - Total Quantity Sold
 Formula used "=SUM('Cleaned Data'!H2:H9995)"
 
+<img width="513" height="315" alt="Summary Metrics" src="https://github.com/user-attachments/assets/07ea273d-92fc-4ff4-8e47-b03ef755d606" />
+
 ----------------------------PIVOT TABLES------------------------------
 
 SALES BY REGION
